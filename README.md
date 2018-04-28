@@ -1,10 +1,12 @@
 # FlappyBird_AI
-A web game.
+A web game. Modifying User play game into AI.
 
 ## Config startup
-Chrome: properties -> target -> add "--allow-file-access-from-files"
-windows: cmd -> "C:\...\Chrome.exe" --allow-file-access-from-files
+1. Python
+2. PyGame
+
+## Test
+Running on Chrome is smoothier than FireFox.
 
 ## Acknowledgement
-JS game library: Omega 500 http://mrspeaker.github.io/Omega500/ex/index.html
-Spirited by Wafty-Man https://github.com/mrspeaker/wafty-man
+based on https://github.com/sourabhv/FlapPyBird
